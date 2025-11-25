@@ -1,5 +1,11 @@
 # @jb-7-jay/react-component
 
+## 4.1.0
+
+### Minor Changes
+
+- [`4d548fb`](https://github.com/jb-7-jay/component-library/commit/4d548fb31c4949a74c9250e4c03eef67d8d3a6c1) Thanks [@jb-7-jay](https://github.com/jb-7-jay)! - change repo private to public
+
 ## 4.0.0
 
 ### Major Changes
