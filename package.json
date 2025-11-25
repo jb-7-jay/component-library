@@ -1,6 +1,6 @@
 {
   "name": "@jb-7-jay/react-component",
-  "version": "4.1.0",
+  "version": "4.0.0",
   "type": "module",
   "main": "./dist/index.umd.js",
   "module": "./dist/index.es.js",
@@ -16,7 +16,7 @@
       "require": "./dist/index.umd.js",
       "types": "./dist/index.d.ts"
     },
-    "./react-component.css": "./dist/react-component.css"
+    "./dist/react-component.css": "./dist/react-component.css"
   },
   "scripts": {
     "dev": "vite",
