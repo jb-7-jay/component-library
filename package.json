@@ -16,7 +16,7 @@
       "require": "./dist/index.umd.js",
       "types": "./dist/index.d.ts"
     },
-    "./dist/react-component.css": "./dist/react-component.css"
+    "./react-component.css": "./dist/react-component.css"
   },
   "scripts": {
     "dev": "vite",
