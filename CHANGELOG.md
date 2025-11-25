@@ -1,5 +1,11 @@
 # @jb-7-jay/react-component
 
+## 4.2.0
+
+### Minor Changes
+
+- [`564d5b6`](https://github.com/jb-7-jay/component-library/commit/564d5b69fa2d81b8ab98bc53855260a07c4ff40b) Thanks [@jb-7-jay](https://github.com/jb-7-jay)! - change css file path
+
 ## 4.1.0
 
 ### Minor Changes
