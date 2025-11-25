@@ -1,5 +1,5 @@
 {
-  "name": "@jay/react-component",
+  "name": "@jb-7-jay/react-component",
   "version": "3.0.0",
   "type": "module",
   "main": "./dist/index.umd.js",
