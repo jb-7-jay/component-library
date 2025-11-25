@@ -38,8 +38,9 @@
     "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
-    "@chromatic-com/storybook": "3.2.5",
+    "@changesets/changelog-github": "^0.5.1",
     "@changesets/cli": "^2.29.5",
+    "@chromatic-com/storybook": "3.2.5",
     "@eslint/js": "^9.21.0",
     "@storybook/addon-essentials": "8.6.4",
     "@storybook/addon-interactions": "8.6.4",
