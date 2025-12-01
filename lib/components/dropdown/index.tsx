@@ -19,17 +19,19 @@ const BasicDropdown: React.FC<BasicDropdownProps> = ({ options, onSelect }) => {
     <div className="relative w-48">
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="w-full px-3 py-2 border border-gray-300 rounded bg-white text-left">
+        className="w-full px-3 py-2 border border-gray-300 rounded bg-white text-left"
+      >
         {selected ?? "Select an option"}
       </button>
       {isOpen && (
         <ul className="absolute mt-1 w-full bg-white border border-gray-300 rounded shadow z-10">
-          {options.map((option) => (
+          {options.map((option, index) => (
             <li
               key={option}
               onClick={() => handleSelect(option)}
-              className="px-3 py-2 hover:bg-gray-100 cursor-pointer">
-              {option}
+              className="px-3 py-2 hover:bg-gray-100 cursor-pointer"
+            >
+              {index + 1}: {option}
             </li>
           ))}
         </ul>
