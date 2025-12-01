@@ -1,5 +1,13 @@
 # @jb-7-jay/react-component
 
+## 4.3.1
+
+### Patch Changes
+
+- [`da784d4`](https://github.com/jb-7-jay/component-library/commit/da784d4cd56a93faed228ebc4eddeb3cde970d25) Thanks [@jb-7-jay](https://github.com/jb-7-jay)! - minor button css changing
+
+- [`bb55c5c`](https://github.com/jb-7-jay/component-library/commit/bb55c5cc3396470fe387f98f91de5f6f96802575) Thanks [@jb-7-jay](https://github.com/jb-7-jay)! - minor bug fixes
+
 ## 4.3.0
 
 ### Minor Changes
