@@ -1,5 +1,11 @@
 # @jb-7-jay/react-component
 
+## 4.5.0
+
+### Minor Changes
+
+[Ticket-1]: update changeselog configuration file.
+
 ## 4.4.0
 
 ### Minor Changes
