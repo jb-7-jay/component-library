@@ -1,5 +1,17 @@
 # @jb-7-jay/react-component
 
+## 4.4.0
+
+### Minor Changes
+
+- [`a8b5a48`](https://github.com/jb-7-jay/component-library/commit/a8b5a48450f068c7bb6ead72946ea48622dc2882) Thanks [@jb-7-jay](https://github.com/jb-7-jay)! - change changelog
+
+- [`840479b`](https://github.com/jb-7-jay/component-library/commit/840479bd5d033fa0c8b52ee6ebde8f34f3b0a00e) Thanks [@jb-7-jay](https://github.com/jb-7-jay)! - [Ticket-1]: add props for name in Textcomponents.
+
+- [`2f4d56c`](https://github.com/jb-7-jay/component-library/commit/2f4d56c9fc53e466dc333125f7344e66e75f91d4) Thanks [@jb-7-jay](https://github.com/jb-7-jay)! - TTN-364- fix small bug
+
+- [`d7dd973`](https://github.com/jb-7-jay/component-library/commit/d7dd973c512cf6e42a3962b24e946612fef36a6f) Thanks [@jb-7-jay](https://github.com/jb-7-jay)! - [Ticket-1]: add props into text component.
+
 ## 4.3.1
 
 ### Patch Changes
