@@ -1,10 +1,8 @@
-module.exports = {
+export default {
   defaultChangelogFunctions: null,
 
-  getReleaseLine: async (changeset, type) => {
-    const summary = changeset.summary.trim();
-
-    return `${summary}`;
+  getReleaseLine: async (changeset) => {
+    return changeset.summary.trim();
   },
 
   getDependencyReleaseLine: async () => {
