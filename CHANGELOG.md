@@ -12,7 +12,7 @@
 
 - [Ticket-1] - change changelog
 
-- [Ticket-1][Ticket-1]: add props for name in Textcomponents.
+- [Ticket-1]: add props for name in Textcomponents.
 
 - [Ticket-1] - TTN-364- fix small bug
 
