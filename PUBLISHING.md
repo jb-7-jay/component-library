@@ -113,7 +113,7 @@ This will launch an interactive prompt where you'll:
   - `patch` - Bug fixes and minor improvements (v1.0.0 → v1.0.1)
   - `minor` - New features (v1.0.0 → v1.1.0)
   - `major` - Breaking changes (v1.0.0 → v2.0.0)
-- **Provide a description** - Describe what changed (e.g., "Add Button component with new hover states")
+- **Provide a description** - Describe what changed (e.g., "[Ticket-123]: Add Button component with new hover states")
 
 #### 4. **Changeset File Created**
 
