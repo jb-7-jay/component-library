@@ -1,5 +1,15 @@
 # @jb-7-jay/react-component
 
+## 5.0.0
+
+### Major Changes
+
+[https://aapcit.atlassian.net/browse/PLAT-13] - Alert box component added
+
+### Patch Changes
+
+https://aapcit.atlassian.net/browse/PLAT-14 - minor alert box related change
+
 ## 4.5.0
 
 ### Minor Changes
